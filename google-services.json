@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "857638856156",
+    "project_id": "thery-c0577",
+    "storage_bucket": "thery-c0577.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857638856156:android:0425304536449384269b19",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.thery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857638856156-5hn30krmg36c6hue4i1rmligc4ihk4j7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwkhf_6LahRTsqSyOLRTDOH6SWRMKHiEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "857638856156-5hn30krmg36c6hue4i1rmligc4ihk4j7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
